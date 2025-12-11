@@ -1,0 +1,1 @@
+import{f as s,a as i}from"./CIzXAvaz.js";import{d as m,r as o,t as c}from"./BJDCtXdB.js";import{a as p}from"./DOMLx4tk.js";var d=s('<div class="container svelte-patnzc"><img class="header-image svelte-patnzc"/></div>');function n(e,t){var a=d(),r=m(a);o(a),c(()=>p(r,"src",t.src)),i(e,a)}export{n as H};
