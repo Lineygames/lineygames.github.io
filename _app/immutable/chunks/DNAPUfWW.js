@@ -1,0 +1,1 @@
+import"./DsnmJJEf.js";import{o as t,v as i,Q as o,w as n,q as v}from"./CLAvIVzB.js";var d=t('<div class="centre svelte-rlgnix"><!></div>');function c(e,a){var r=d(),s=i(r);o(s,()=>a.children),n(r),v(e,r)}export{c as C};
